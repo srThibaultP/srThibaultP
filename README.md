@@ -16,9 +16,7 @@
 
 
 
-- 🔭 I’m currently working on school projects
-
-- 🌱 I’m currently learning Kotlin and Laravel 
+- 🔭 I’m currently working at RABAUD
 
   <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
