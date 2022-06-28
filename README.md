@@ -47,27 +47,16 @@
 <a href= https://github.com/srThibaultP?tab=repositories&q=&type=&language=oracle&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/oracle.svg'> </a>
 <a href= https://github.com/srThibaultP?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
 <a href= https://github.com/srThibaultP?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/srThibaultP?tab=repositories&q=&type=&language=postman&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'> </a>
 <a href= https://github.com/srThibaultP?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
 <a href= https://github.com/srThibaultP?tab=repositories&q=&type=&language=qt&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/qt.svg'> </a>
-<a href= https://github.com/srThibaultP?tab=repositories&q=&type=&language=reddit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reddit.svg'> </a>
 <a href= https://github.com/srThibaultP?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
 <a href= https://github.com/srThibaultP?tab=repositories&q=&type=&language=symfony&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/symfony.svg'> </a>
-<a href= https://github.com/srThibaultP?tab=repositories&q=&type=&language=spotify&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spotify.svg'> </a>
 <a href= https://github.com/srThibaultP?tab=repositories&q=&type=&language=solidworks&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/solidworks.svg'> </a>
 <a href= https://github.com/srThibaultP?tab=repositories&q=&type=&language=stack-overflow&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/stack-overflow.svg'> </a>
-<a href= https://github.com/srThibaultP?tab=repositories&q=&type=&language=twitch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitch.svg'> </a>
-<a href= https://github.com/srThibaultP?tab=repositories&q=&type=&language=twitter&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg'> </a>
 <a href= https://github.com/srThibaultP?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
 <a href= https://github.com/srThibaultP?tab=repositories&q=&type=&language=unity&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg'> </a>
 <a href= https://github.com/srThibaultP?tab=repositories&q=&type=&language=unreal&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unreal.svg'> </a>
 <a href= https://github.com/srThibaultP?tab=repositories&q=&type=&language=wordpress&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg'> </a>
-<a href= https://github.com/srThibaultP?tab=repositories&q=&type=&language=youtube&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg'> </a>
-
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px" height="30px"> </h2>
-<a href = 'https://www.linkedin.com/in/thibaultpech'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.github.com/srThibaultP'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> </h2>
