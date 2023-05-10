@@ -1,26 +1,19 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://coolwallpapers.me/th700/2717955-sword-art-online-4k-awesome-pic.jpg" alt="cover" />
+<img width="100%" height = "250px" src="https://raw.githubusercontent.com/srThibaultP/srThibaultP/main/bg.jpg" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=srThibaultP.srThibaultP)
+ [![HitCount](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsrthibaultp%2Fsrthibaultp.json%3Fcolor%3Dpink)](http://hits.dwyl.com/srthibaultp/srthibaultp)
 
 </p>
 <div size='20px'> Hi there! I'm Thibault PECH. Thank you for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me </h2>
-
-
-
-
-- 🔭 I’m currently working at RABAUD
-
   <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<h2> Familiar with these software <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> </h2>
+<h2> Worked with those languages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> </h2>
 <a href= https://github.com/srThibaultP?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
 <a href= https://github.com/srThibaultP?tab=repositories&q=&type=&language=arduino&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/arduino.svg'> </a>
 <a href= https://github.com/srThibaultP?tab=repositories&q=&type=&language=bash&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
@@ -53,8 +46,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ThibaultP&compact=True"/>
 </a>
 <br>
-
-
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="30px" height="30px"> </h2>
-
-![Metrics](https://metrics.lecoq.io/srThibaultP?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FParis)
